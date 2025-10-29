@@ -1,6 +1,6 @@
 # Shiroi
 BBM (block builder) and validator client for Solana
-
+![Shiroi img](shiroi_git.png)
 # Submission to 2025 Solana Colosseum Submission by:
 - Semyon Golovin. Founder. [GitHub](https://github.com/semgoSE). [TG](https://t.me/semgoSE). [X](https://x.com/semgoSE).
 - Evgeny Malogritsenko. Project manager. [GitHub](https://github.com/Noname400). [TG](https://t.me/nonexhunt). [X](https://x.com/DevnpSol).
