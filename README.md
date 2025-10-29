@@ -44,7 +44,7 @@ BBM (block builder) and validator client for Solana
 Расписываем какие языки, фреймворки, библиотеки и SDK были использованы в вашем проекте.
 
 # Architecture
-В этом разделе можно в виде схемы изобразить архитектуру вашего проекта, какие элементы есть, как они друг с другом взаимодействуют и как выглядит взаимодействие пользователя с вашим проектом (по этапам)
+![Shiroi scheme](shiroi_scheme.png)
 
 # Quick start
 To test our client, you can either clone our repository (https://github.com/shiroi-labs/bbm-agave) to your own server, build and run it, or request access to a live testnet server already running our client (text to Evgeny on [Telegram](https://t.me/nonexhunt))
