@@ -9,7 +9,7 @@ BBM (block builder) and validator client for Solana
 - Maxim Afanasyev. Ceo. [TG](https://t.me/maxnutrition). [X](https://x.com/_Marakaya)
 
 # Resources
-- ссылка на презентацию проекта
+- Shiroi validator repository link - https://github.com/shiroi-labs/bbm-agave
 - ссылка на видео о проекте
 - ссылка на само приложение (если есть)
 - ссылка на сайт проекта (если есть)
