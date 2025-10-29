@@ -47,5 +47,4 @@ BBM (block builder) and validator client for Solana
 В этом разделе можно в виде схемы изобразить архитектуру вашего проекта, какие элементы есть, как они друг с другом взаимодействуют и как выглядит взаимодействие пользователя с вашим проектом (по этапам)
 
 # Quick start
-Небольшой мануал как быстро запустить ваш проект. Если есть возможность склонировать ваш репозиторий и локально его запустить, распишите все зависимости и напишите простой мануал, чтобы жюри смогли запустить его локально. Обязательно проверьте на чистом сервере, чтобы точно все запустилось и работало.
-
+To test our client, you can either clone our repository to your own server, build and run it, or request access to a live testnet server already running our client (text to Evgeny on [Telegram](https://t.me/nonexhunt)
